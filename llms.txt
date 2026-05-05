@@ -1,28 +1,39 @@
-# phu-gral.eu Public Site Assets
+  # PHU GRAL — Akcesoria Meblowe
 
-This repository contains public static files and assets for phu-gral.eu, including this llms.txt file.
+  > Autoryzowany dystrybutor akcesoriów meblowych Blum, PEKA, Sevroll i Zobal.
+  > Sklep internetowy z siedzibą w Białymstoku. Ponad 10 000 produktów.
+  > Obsługujemy zarówno profesjonalistów (stolarzy, projektantów wnętrz), jak i klientów indywidualnych.
+  > Założona w 2004. NIP: 5431315780.
 
-## Repository Purpose
+  ## Strony główne
 
-This repository serves as a centralized location for:
-- Static site assets
-- LLM-friendly metadata and documentation
-- Configuration files for the phu-gral.eu domain
+  - [Strona główna](https://phu-gral.eu): Sklep z akcesoriami meblowymi — szuflady, zawiasy, uchwyty, systemy przesuwne
+  - [O nas](https://phu-gral.eu/pl/i/O-nas/13): Historia firmy, dane rejestrowe, kontakt
+  - [FAQ](https://phu-gral.eu/pl/i/FAQ/14): Często zadawane pytania — dostawa, płatność, zwroty, montaż
+  - [Kontakt](https://phu-gral.eu/pl/i/Kontakt/15): Adres, godziny otwarcia, telefon, e-mail
+  - [Dostawa i płatność](https://phu-gral.eu/pl/i/Dostawa-i-platnosc/8): Warunki wysyłki i formy płatności — standardowa 14 zł, bezpłatna od 500 zł
 
-## About llms.txt
+  ## Marki
 
-This llms.txt file provides structured information about this repository to help AI systems and language models understand its purpose and contents.
+  - [Blum](https://phu-gral.eu/pl/c/Blum/): Szuflady Legrabox, Merivobox, Tandembox Antaro; zawiasy Clip top Blumotion; podnośniki Aventos HF/HK/HL/HS
+  - [PEKA](https://phu-gral.eu/pl/c/PEKA/): Systemy szuflad, kosze cargo, windy górne do mebli kuchennych
+  - [Sevroll](https://phu-gral.eu/pl/c/Sevroll/): Systemy drzwi przesuwnych do szaf i zabudów
+  - [Zobal](https://phu-gral.eu/pl/c/Zobal/): Fronty aluminiowe, uchwyty UKW do mebli
 
-## Repository Information
+  ## Kategorie produktów
 
-- **Owner**: sfilipczynski
-- **Visibility**: Public
-- **Purpose**: Public site assets for phu-gral.eu
+  - [Szuflady i systemy szuflad](https://phu-gral.eu/pl/c/Szuflady-systemy-szuflad/1)
+  - [Zawiasy](https://phu-gral.eu/pl/c/Zawiasy/2)
+  - [Uchwyty i gałki](https://phu-gral.eu/pl/c/Uchwyty-i-galki-meblowe/4)
+  - [Systemy drzwi przesuwnych](https://phu-gral.eu/pl/c/Systemy-drzwi-przesuwnych/5)
+  - [Windy górne do drzwiczek](https://phu-gral.eu/pl/c/Windy-gorne/866)
+  - [Nogi meblowe](https://phu-gral.eu/pl/c/Nogi-i-nozki/3)
 
-## Usage
+  ## Dane firmy
 
-All files in this repository are intended for public use. For specific questions about implementation or integration, please refer to the README or open an issue.
-
----
-
-Last updated: 2026-05-05
+  - Pełna nazwa: Przedsiębiorstwo Handlowo-Usługowe GRAL
+  - Adres: ul. Stanisława Mikołajczyka 32, 15-772 Białystok, Polska
+  - Telefon: +48 663 783 083
+  - E-mail: sklep@phu-gral.pl
+  - NIP: 5431315780
+  - Wikidata: https://www.wikidata.org/wiki/Q139551790
