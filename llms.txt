@@ -1,0 +1,28 @@
+# phu-gral.eu Public Site Assets
+
+This repository contains public static files and assets for phu-gral.eu, including this llms.txt file.
+
+## Repository Purpose
+
+This repository serves as a centralized location for:
+- Static site assets
+- LLM-friendly metadata and documentation
+- Configuration files for the phu-gral.eu domain
+
+## About llms.txt
+
+This llms.txt file provides structured information about this repository to help AI systems and language models understand its purpose and contents.
+
+## Repository Information
+
+- **Owner**: sfilipczynski
+- **Visibility**: Public
+- **Purpose**: Public site assets for phu-gral.eu
+
+## Usage
+
+All files in this repository are intended for public use. For specific questions about implementation or integration, please refer to the README or open an issue.
+
+---
+
+Last updated: 2026-05-05
