@@ -1,39 +1,141 @@
-  # PHU GRAL — Akcesoria Meblowe
+# PHU GRAL — Akcesoria Meblowe
 
-  > Autoryzowany dystrybutor akcesoriów meblowych Blum, PEKA, Sevroll i Zobal.
-  > Sklep internetowy z siedzibą w Białymstoku. Ponad 10 000 produktów.
-  > Obsługujemy zarówno profesjonalistów (stolarzy, projektantów wnętrz), jak i klientów indywidualnych.
-  > Założona w 2004. NIP: 5431315780.
+> Autoryzowany dystrybutor akcesoriów meblowych Blum, PEKA, Sevroll i Zobal.
+> Sklep internetowy z siedzibą w Białymstoku. Ponad 10 000 produktów.
+> Obsługujemy zarówno profesjonalistów (stolarzy, projektantów wnętrz), jak i klientów indywidualnych.
+> Założona w 2004. NIP: 5431315780.
 
-  ## Strony główne
+## Strony główne
 
-  - [Strona główna](https://phu-gral.eu): Sklep z akcesoriami meblowymi — szuflady, zawiasy, uchwyty, systemy przesuwne
-  - [O nas](https://phu-gral.eu/pl/i/O-nas/13): Historia firmy, dane rejestrowe, kontakt
-  - [FAQ](https://phu-gral.eu/pl/i/FAQ/14): Często zadawane pytania — dostawa, płatność, zwroty, montaż
-  - [Kontakt](https://phu-gral.eu/pl/i/Kontakt/15): Adres, godziny otwarcia, telefon, e-mail
-  - [Dostawa i płatność](https://phu-gral.eu/pl/i/Dostawa-i-platnosc/8): Warunki wysyłki i formy płatności — standardowa 14 zł, bezpłatna od 500 zł
+- [Strona główna](https://phu-gral.eu): Sklep z akcesoriami meblowymi — szuflady, zawiasy, uchwyty, systemy przesuwne
+- [O nas](https://phu-gral.eu/pl/i/Informacje-o-firmie/16): Historia firmy, dane rejestrowe, kontakt
+- [FAQ](https://phu-gral.eu/pl/i/Najczesciej-zadawane-pytania/5): Często zadawane pytania — dostawa, płatność, zwroty, montaż
+- [Kontakt](https://phu-gral.eu/pl/i/Kontakt/15): Adres, godziny otwarcia, telefon, e-mail
+- [Dostawa i płatność](https://phu-gral.eu/pl/i/Dostawa-i-platnosc/8): Warunki wysyłki i formy płatności — standardowa 14 zł, bezpłatna od 500 zł
 
-  ## Marki
+## Marki
 
-  - [Blum](https://phu-gral.eu/pl/c/Blum/): Szuflady Legrabox, Merivobox, Tandembox Antaro; zawiasy Clip top Blumotion; podnośniki Aventos HF/HK/HL/HS
-  - [PEKA](https://phu-gral.eu/pl/c/PEKA/): Systemy szuflad, kosze cargo, windy górne do mebli kuchennych
-  - [Sevroll](https://phu-gral.eu/pl/c/Sevroll/): Systemy drzwi przesuwnych do szaf i zabudów
-  - [Zobal](https://phu-gral.eu/pl/c/Zobal/): Fronty aluminiowe, uchwyty UKW do mebli
+- [Blum](https://phu-gral.eu/pl/c/Blum/): Szuflady Legrabox, Merivobox, Tandembox Antaro; zawiasy Clip top Blumotion; podnośniki Aventos HF/HK/HL/HS
+- [PEKA](https://phu-gral.eu/pl/c/PEKA/): Systemy szuflad, kosze cargo, windy górne do mebli kuchennych
+- [Sevroll](https://phu-gral.eu/pl/c/Sevroll/): Systemy drzwi przesuwnych do szaf i zabudów
+- [Zobal](https://phu-gral.eu/pl/c/Zobal/): Fronty aluminiowe, uchwyty UKW do mebli
 
-  ## Kategorie produktów
+## Kategorie produktów
 
-  - [Szuflady i systemy szuflad](https://phu-gral.eu/pl/c/Szuflady-systemy-szuflad/1)
-  - [Zawiasy](https://phu-gral.eu/pl/c/Zawiasy/2)
-  - [Uchwyty i gałki](https://phu-gral.eu/pl/c/Uchwyty-i-galki-meblowe/4)
-  - [Systemy drzwi przesuwnych](https://phu-gral.eu/pl/c/Systemy-drzwi-przesuwnych/5)
-  - [Windy górne do drzwiczek](https://phu-gral.eu/pl/c/Windy-gorne/866)
-  - [Nogi meblowe](https://phu-gral.eu/pl/c/Nogi-i-nozki/3)
+- [Szuflady i systemy szuflad](https://phu-gral.eu/pl/c/Szuflady-systemy-szuflad/1)
+- [Zawiasy](https://phu-gral.eu/pl/c/Zawiasy/2)
+- [Uchwyty i gałki](https://phu-gral.eu/pl/c/Uchwyty-i-galki-meblowe/4)
+- [Systemy drzwi przesuwnych](https://phu-gral.eu/pl/c/Systemy-drzwi-przesuwnych/5)
+- [Windy górne do drzwiczek](https://phu-gral.eu/pl/c/Windy-gorne/866)
+- [Nogi meblowe](https://phu-gral.eu/pl/c/Nogi-i-nozki/3)
 
-  ## Dane firmy
+## Dane firmy
 
-  - Pełna nazwa: Przedsiębiorstwo Handlowo-Usługowe GRAL
-  - Adres: ul. Stanisława Mikołajczyka 32, 15-772 Białystok, Polska
-  - Telefon: +48 663 783 083
-  - E-mail: sklep@phu-gral.pl
-  - NIP: 5431315780
-  - Wikidata: https://www.wikidata.org/wiki/Q139551790
+- Pełna nazwa: Przedsiębiorstwo Handlowo-Usługowe GRAL
+- Adres: ul. Stanisława Mikołajczyka 32, 15-772 Białystok, Polska
+- Telefon: +48 663 783 083
+- E-mail: sklep@phu-gral.pl
+- Godziny obsługi: pon.–pt. 8:00–16:30
+- NIP: 5431315780
+- Wikidata: https://www.wikidata.org/wiki/Q139551790
+
+## FAQ — Zamówienia i płatności
+
+Q: Jak złożyć zamówienie?
+A: Dodaj produkty do koszyka, a następnie kliknij „Przejdź do kasy". Możesz kupować jako gość lub z kontem, które umożliwia dostęp do historii zamówień.
+
+Q: Jakie formy płatności akceptujecie?
+A: PayU/Przelewy24 (BLIK, szybkie przelewy), karty płatnicze (Visa, Mastercard) oraz przelew tradycyjny na rachunek bankowy.
+
+Q: Czy mogę kupić na fakturę VAT?
+A: Tak — wpisz NIP firmy podczas składania zamówienia, a faktura VAT zostanie wystawiona automatycznie w systemie KSEF.
+
+Q: Czy mogę zmienić lub anulować zamówienie?
+A: Zmiany są możliwe, dopóki zamówienie nie zostało przekazane do wysyłki. Skontaktuj się na sklep@phu-gral.pl lub 663 783 083 (pon.–pt. 8:00–16:30).
+
+Q: Kiedy zamówienie zostaje potwierdzone?
+A: Potwierdzenie wysyłamy e-mailem natychmiast po zaksięgowaniu płatności. Sprawdź folder SPAM jeśli nie dotarło w kilka minut.
+
+Q: Czy mogę zamówić towar, którego nie ma na stanie?
+A: Tak — część produktów dostępna jest na zamówienie z dłuższym czasem realizacji. Napisz na sklep@phu-gral.pl z nazwą produktu.
+
+## FAQ — Dostawa i wysyłka
+
+Q: Ile kosztuje dostawa?
+A: Zamówienia powyżej 500 zł są wysyłane bezpłatnie. Poniżej tego progu koszt dostawy wynosi 14 zł. Szczegóły na stronie Koszty dostawy.
+
+Q: Ile czasu trwa realizacja zamówienia?
+A: Zamówienia złożone w dni robocze do godziny 13:00 wysyłamy tego samego dnia. Czas dostawy wynosi zazwyczaj 1–2 dni robocze.
+
+Q: Jakich kurierów używacie?
+A: Wysyłamy za pośrednictwem DPD, InPost lub DHL. Otrzymasz e-mail z numerem śledzenia przesyłki.
+
+Q: Czy wysyłacie za granicę?
+A: Tak — warunki i koszty dostawy zagranicznej ustalane są indywidualnie. Skontaktuj się z firmą przed złożeniem zamówienia.
+
+Q: Co zrobić, jeśli paczka dotarła uszkodzona?
+A: Sporządź protokół szkody w obecności kuriera i napisz na sklep@phu-gral.pl. Dołącz zdjęcia uszkodzeń i numer zamówienia.
+
+## FAQ — Zwroty i reklamacje
+
+Q: W jakim terminie mogę zwrócić towar?
+A: Masz 14 dni na odstąpienie od umowy bez podania przyczyny. Towar musi być nieużywany, kompletny i w oryginalnym opakowaniu.
+
+Q: Jak złożyć zwrot?
+A: Napisz na sklep@phu-gral.pl z numerem zamówienia i informacją o zwrocie. Koszty odesłania towaru pokrywa kupujący, chyba że towar jest wadliwy.
+
+Q: Jak złożyć reklamację?
+A: Wyślij e-mail na sklep@phu-gral.pl z numerem zamówienia, opisem wady i zdjęciami. Reklamację rozpatrujemy w ciągu 14 dni roboczych.
+
+Q: Co jeśli otrzymałem zły lub niekompletny towar?
+A: Skontaktuj się w ciągu 48 godzin od odbioru przesyłki. Wyślemy właściwy towar na koszt firmy.
+
+## FAQ — Produkty i dobór
+
+Q: Jak dobrać kosz do szafki wysokiej?
+A: Kluczowe parametry to szerokość szafki (najczęściej 45 lub 60 cm) oraz głębokość korpusu. Każdy kosz ma wymiary podane w opisie produktu.
+
+Q: Czym różni się Legrabox od Tandembox Antaro?
+A: Legrabox to stal nierdzewna i wyższe obciążenia. Tandembox Antaro to stal lakierowana, dostępna w wielu kolorach, korzystniejsza cenowo.
+
+Q: Jak dobrać prowadnicę szuflady?
+A: Długość prowadnicy powinna odpowiadać głębokości szuflady. Sprawdź klasę obciążenia: 30–40 kg standardowo, 60–120 kg dla ciężkich zastosowań.
+
+Q: Czy sprzedajecie kompletne zestawy?
+A: Tak — w kategorii Komplety dostępne są gotowe zestawy zawierające szufladę, prowadnicę i front wewnętrzny.
+
+Q: Czy mogę kupić tylko jeden element zestawu?
+A: Zazwyczaj tak — komponenty sprzedajemy również osobno. Napisz na sklep@phu-gral.pl jeśli nie możesz znaleźć szukanej części.
+
+Q: Czy produkty Blum i Hafele są ze sobą kompatybilne?
+A: Generalnie nie — systemy szuflad nie są wymienne między markami, chyba że chodzi o akcesoria montażowe znormalizowane.
+
+## FAQ — Montaż i instalacja
+
+Q: Czy produkty są dostarczane z instrukcją montażu?
+A: Tak — produkty markowe zawierają instrukcję producenta, dostępną również w PDF na stronach produktów.
+
+Q: Jak wyregulować zawiasy po montażu?
+A: Zawiasy Blum mają regulację boczną, głębokościową i wysokościową. Szczegółowe instrukcje video dostępne na kanale Blum na YouTube.
+
+Q: Jakie narzędzia są potrzebne do montażu?
+A: Wystarczają wiertarka z wiertłem Forstner 35 mm, wkrętarka, poziomnica, miarka i ołówek. Szuflady Blum montują się bez wiercenia.
+
+Q: Czy zawiasy Blum pasują do istniejących otworów montażowych?
+A: Standardowy kubek zawiasu ma średnicę 35 mm. Upewnij się, że typ nakładki odpowiada grubości frontu.
+
+## FAQ — Gwarancja
+
+Q: Jaki jest okres gwarancji?
+A: Blum udziela dożywotniej gwarancji na mechanikę swoich produktów. Pozostałe produkty mają gwarancję producenta, zazwyczaj 2 lata.
+
+Q: Co obejmuje gwarancja?
+A: Gwarancja obejmuje wady materiałowe i produkcyjne. Nie obejmuje uszkodzeń mechanicznych, zużycia eksploatacyjnego ani montażu niezgodnego z instrukcją.
+
+Q: Jak zgłosić wadę gwarancyjną?
+A: Wyślij e-mail na sklep@phu-gral.pl z numerem zamówienia, opisem wady i zdjęciami. Odpowiemy w ciągu 2 dni roboczych.
+
+## FAQ — Konto i rejestracja
+
+Q: Czy muszę się zarejestrować, żeby kupować?
+A: Nie — możesz kupować jako gość. Konto umożliwia śledzenie zamówień i szybsze zakupy przy kolejnych zamówieniach.
