@@ -44,100 +44,100 @@
 ## FAQ — Zamówienia i płatności
 
 Q: Jak złożyć zamówienie?
-A: Dodaj produkty do koszyka, a następnie kliknij „Przejdź do kasy". Możesz kupować jako gość lub z kontem, które umożliwia dostęp do historii zamówień.
+A: Dodaj produkty do koszyka i kliknij „Przejdź do kasy". Możesz kupować jako gość lub zalogować się na konto, które daje dostęp do historii zamówień i przyspiesza kolejne zakupy. Po złożeniu zamówienia otrzymasz e-mail z potwierdzeniem na adres podany przy rejestracji.
 
 Q: Jakie formy płatności akceptujecie?
-A: PayU/Przelewy24 (BLIK, szybkie przelewy), karty płatnicze (Visa, Mastercard) oraz przelew tradycyjny na rachunek bankowy.
+A: Akceptujemy płatności przez PayU i Przelewy24 (BLIK, szybkie przelewy bankowe), karty płatnicze Visa i Mastercard oraz przelew tradycyjny na rachunek bankowy. Zamówienia opłacone przelewem są realizowane po zaksięgowaniu wpłaty, co trwa 1–2 dni robocze.
 
 Q: Czy mogę kupić na fakturę VAT?
-A: Tak — wpisz NIP firmy podczas składania zamówienia, a faktura VAT zostanie wystawiona automatycznie w systemie KSEF.
+A: Tak — wpisz NIP firmy podczas składania zamówienia, a faktura VAT zostanie wystawiona automatycznie w systemie KSEF. Faktura jest dostępna w panelu klienta i wysyłana e-mailem po zaksięgowaniu płatności.
 
 Q: Czy mogę zmienić lub anulować zamówienie?
-A: Zmiany są możliwe, dopóki zamówienie nie zostało przekazane do wysyłki. Skontaktuj się na sklep@phu-gral.pl lub 663 783 083 (pon.–pt. 8:00–16:30).
+A: Zmiany i anulowanie są możliwe, dopóki zamówienie nie zostało przekazane do wysyłki. Skontaktuj się na sklep@phu-gral.pl lub telefonicznie pod nr 663 783 083 (pon.–pt. 8:00–16:30). Przy szybkim kontakcie jeszcze tego samego dnia możemy zatrzymać zamówienie.
 
 Q: Kiedy zamówienie zostaje potwierdzone?
-A: Potwierdzenie wysyłamy e-mailem natychmiast po zaksięgowaniu płatności. Sprawdź folder SPAM jeśli nie dotarło w kilka minut.
+A: Potwierdzenie e-mailem wysyłamy natychmiast po zaksięgowaniu płatności. Sprawdź folder SPAM, jeśli wiadomość nie dotarła w ciągu kilku minut. Zamówienia złożone do 13:00 w dni robocze wysyłamy tego samego dnia.
 
 Q: Czy mogę zamówić towar, którego nie ma na stanie?
-A: Tak — część produktów dostępna jest na zamówienie z dłuższym czasem realizacji. Napisz na sklep@phu-gral.pl z nazwą produktu.
+A: Tak — część produktów dostępna jest na zamówienie z dłuższym czasem realizacji (zazwyczaj 7–14 dni roboczych). Napisz na sklep@phu-gral.pl z nazwą produktu i podaj kod z katalogu producenta, jeśli go znasz.
 
 ## FAQ — Dostawa i wysyłka
 
 Q: Ile kosztuje dostawa?
-A: Zamówienia powyżej 500 zł są wysyłane bezpłatnie. Poniżej tego progu koszt dostawy wynosi 14 zł. Szczegóły na stronie Koszty dostawy.
+A: Zamówienia powyżej 500 zł są wysyłane bezpłatnie. Poniżej tego progu koszt dostawy wynosi 14 zł. Dostarczamy przez DPD, InPost i DHL — po nadaniu paczki otrzymasz e-mail z numerem śledzenia.
 
 Q: Ile czasu trwa realizacja zamówienia?
-A: Zamówienia złożone w dni robocze do godziny 13:00 wysyłamy tego samego dnia. Czas dostawy wynosi zazwyczaj 1–2 dni robocze.
+A: Zamówienia złożone w dni robocze do godziny 13:00 wysyłamy tego samego dnia. Czas dostawy kurierskiej wynosi zazwyczaj 1–2 dni robocze na terenie Polski. Łączny czas od złożenia zamówienia do otrzymania paczki to zazwyczaj 2–3 dni robocze.
 
 Q: Jakich kurierów używacie?
-A: Wysyłamy za pośrednictwem DPD, InPost lub DHL. Otrzymasz e-mail z numerem śledzenia przesyłki.
+A: Wysyłamy za pośrednictwem DPD, InPost i DHL. Kurier jest wybierany automatycznie w zależności od dostępności i regionu dostawy. Po nadaniu paczki otrzymasz SMS lub e-mail z numerem śledzenia i linkiem do śledzenia przesyłki.
 
 Q: Czy wysyłacie za granicę?
-A: Tak — warunki i koszty dostawy zagranicznej ustalane są indywidualnie. Skontaktuj się z firmą przed złożeniem zamówienia.
+A: Tak — obsługujemy wysyłki zagraniczne, głównie do krajów UE. Warunki i koszty dostawy zagranicznej ustalane są indywidualnie — skontaktuj się przez sklep@phu-gral.pl przed złożeniem zamówienia, podając kraj dostawy i wagę szacunkową zamówienia.
 
 Q: Co zrobić, jeśli paczka dotarła uszkodzona?
-A: Sporządź protokół szkody w obecności kuriera i napisz na sklep@phu-gral.pl. Dołącz zdjęcia uszkodzeń i numer zamówienia.
+A: Sporządź protokół szkody w obecności kuriera i nie odbieraj paczki jeśli uszkodzenia są poważne. Następnie napisz na sklep@phu-gral.pl, dołączając zdjęcia uszkodzeń, numer zamówienia i kopię protokołu. Reklamację spedycyjną rozpatrujemy w ciągu 5 dni roboczych.
 
 ## FAQ — Zwroty i reklamacje
 
 Q: W jakim terminie mogę zwrócić towar?
-A: Masz 14 dni na odstąpienie od umowy bez podania przyczyny. Towar musi być nieużywany, kompletny i w oryginalnym opakowaniu.
+A: Masz 14 dni kalendarzowych na odstąpienie od umowy bez podania przyczyny, licząc od daty odbioru przesyłki. Towar musi być nieużywany, kompletny i w oryginalnym opakowaniu. Zwrot środków następuje w ciągu 14 dni od otrzymania towaru przez PHU GRAL.
 
 Q: Jak złożyć zwrot?
-A: Napisz na sklep@phu-gral.pl z numerem zamówienia i informacją o zwrocie. Koszty odesłania towaru pokrywa kupujący, chyba że towar jest wadliwy.
+A: Wyślij e-mail na sklep@phu-gral.pl z numerem zamówienia i informacją o zwrocie. Koszty odesłania towaru pokrywa kupujący, chyba że towar jest wadliwy lub niezgodny z zamówieniem — wtedy odsyłka odbywa się na koszt firmy.
 
 Q: Jak złożyć reklamację?
-A: Wyślij e-mail na sklep@phu-gral.pl z numerem zamówienia, opisem wady i zdjęciami. Reklamację rozpatrujemy w ciągu 14 dni roboczych.
+A: Wyślij e-mail na sklep@phu-gral.pl z numerem zamówienia, opisem wady i zdjęciami. Reklamację rozpatrujemy w ciągu 14 dni roboczych. W przypadku uznania reklamacji oferujemy wymianę towaru, naprawę lub zwrot środków według wyboru klienta.
 
 Q: Co jeśli otrzymałem zły lub niekompletny towar?
-A: Skontaktuj się w ciągu 48 godzin od odbioru przesyłki. Wyślemy właściwy towar na koszt firmy.
+A: Skontaktuj się w ciągu 48 godzin od odbioru przesyłki, wysyłając e-mail na sklep@phu-gral.pl z numerem zamówienia i zdjęciem otrzymanego towaru. Wyślemy właściwy towar na koszt firmy w następnym dniu roboczym.
 
 ## FAQ — Produkty i dobór
 
 Q: Jak dobrać kosz do szafki wysokiej?
-A: Kluczowe parametry to szerokość szafki (najczęściej 45 lub 60 cm) oraz głębokość korpusu. Każdy kosz ma wymiary podane w opisie produktu.
+A: Kluczowe parametry to szerokość szafki (najczęściej 45 lub 60 cm) i głębokość korpusu (zazwyczaj 450–550 mm). Każdy kosz w ofercie PHU GRAL ma podane wymiary montażowe w opisie produktu. W razie wątpliwości podaj wymiary szafki na sklep@phu-gral.pl — dobierzemy odpowiedni model.
 
 Q: Czym różni się Legrabox od Tandembox Antaro?
-A: Legrabox to stal nierdzewna i wyższe obciążenia. Tandembox Antaro to stal lakierowana, dostępna w wielu kolorach, korzystniejsza cenowo.
+A: Legrabox ma boczne ścianki z chromowanej stali nierdzewnej, jest dostępny w wersji z prowadnicami Movento i oferuje obciążenie do 70 kg — to system klasy premium przeznaczony do mebli wysokiej jakości. Tandembox Antaro ma stalowe boki lakierowane (biały, szary, czarny), jest dostępny w wielu wysokościach (B=86mm, C=196mm, D=228mm) i nośnościach 30–65 kg. Tandembox Antaro jest korzystniejszy cenowo i najczęściej wybierany w standardowych projektach kuchennych i meblowych.
 
 Q: Jak dobrać prowadnicę szuflady?
-A: Długość prowadnicy powinna odpowiadać głębokości szuflady. Sprawdź klasę obciążenia: 30–40 kg standardowo, 60–120 kg dla ciężkich zastosowań.
+A: Długość prowadnicy powinna odpowiadać głębokości szuflady — standardowe długości to 270, 350, 400, 450, 500, 550 i 650 mm. Klasa obciążenia: 30–40 kg dla szuflad kuchennych, 60–120 kg dla szaf i mebli warsztatowych. PHU GRAL oferuje prowadnice Blum Tandem, Movento i pełny wysuw z dociągiem Blumotion.
 
 Q: Czy sprzedajecie kompletne zestawy?
-A: Tak — w kategorii Komplety dostępne są gotowe zestawy zawierające szufladę, prowadnicę i front wewnętrzny.
+A: Tak — w kategorii Komplety dostępne są gotowe zestawy szuflad zawierające prowadnicę, stalowe boki, mocowanie frontu wewnętrznego i mocowanie ścianki tylnej. Zestawy są dobrane według systemu (Antaro, Legrabox, Merivobox) i wysokości boku.
 
 Q: Czy mogę kupić tylko jeden element zestawu?
-A: Zazwyczaj tak — komponenty sprzedajemy również osobno. Napisz na sklep@phu-gral.pl jeśli nie możesz znaleźć szukanej części.
+A: Tak — wszystkie komponenty (prowadnice, boczki, mocowania frontów, relingi, zaślepki) sprzedajemy również osobno w odpowiednich podkategoriach. Jeśli nie możesz znaleźć szukanej części, napisz na sklep@phu-gral.pl podając kod produktu z instrukcji montażu.
 
 Q: Czy produkty Blum i Hafele są ze sobą kompatybilne?
-A: Generalnie nie — systemy szuflad nie są wymienne między markami, chyba że chodzi o akcesoria montażowe znormalizowane.
+A: Generalnie nie — systemy szuflad Blum (Tandembox, Legrabox) i Hafele (Matrix Box) używają innych mechanizmów mocowania, prowadnic i frontów wewnętrznych i nie są wymienne. Wyjątek stanowią akcesoria montażowe znormalizowane (np. kołki meblowe, wkręty). W razie wątpliwości podaj kody obu produktów — zweryfikujemy kompatybilność.
 
 ## FAQ — Montaż i instalacja
 
 Q: Czy produkty są dostarczane z instrukcją montażu?
-A: Tak — produkty markowe zawierają instrukcję producenta, dostępną również w PDF na stronach produktów.
+A: Tak — wszystkie produkty markowe (Blum, PEKA, Sevroll, Zobal) zawierają oryginalną instrukcję producenta w zestawie. Instrukcje PDF dostępne są również na stronach produktów oraz na oficjalnych stronach producentów (np. blum.com/pl). Dodatkowe instrukcje wideo dostępne są na kanale Blum na YouTube.
 
 Q: Jak wyregulować zawiasy po montażu?
-A: Zawiasy Blum mają regulację boczną, głębokościową i wysokościową. Szczegółowe instrukcje video dostępne na kanale Blum na YouTube.
+A: Zawiasy Blum Clip Top mają regulację w trzech płaszczyznach: boczna (śruba boczna ±2 mm), głębokościowa (śruba tylna ±1,5 mm) i wysokościowa (ramię zawiasu ±4 mm). Regulację przeprowadza się wkrętakiem krzyżakowym po zamknięciu drzwiczek — szczegółowe instrukcje wideo dostępne są na kanale Blum na YouTube.
 
 Q: Jakie narzędzia są potrzebne do montażu?
-A: Wystarczają wiertarka z wiertłem Forstner 35 mm, wkrętarka, poziomnica, miarka i ołówek. Szuflady Blum montują się bez wiercenia.
+A: Do montażu szuflad Blum potrzebne są: wiertarka z wiertłem Forstner 35 mm (do otworów pod zawiasy), wkrętarka, poziomnica, miarka i ołówek. Szuflady Blum (system zatrzaskowy) montuje się bez konieczności wiercenia dodatkowych otworów w prowadnicach.
 
 Q: Czy zawiasy Blum pasują do istniejących otworów montażowych?
-A: Standardowy kubek zawiasu ma średnicę 35 mm. Upewnij się, że typ nakładki odpowiada grubości frontu.
+A: Standardowy kubek zawiasu Blum ma średnicę 35 mm i głębokość wiercenia 13 mm — pasuje do wszystkich standardowych otworów 35 mm. Typ nakładki (nakladany, półnakladany, wbudowany) należy dobrać do grubości i konstrukcji frontu. Blum oferuje nakładki od 0° do 170° kąta otwarcia.
 
 ## FAQ — Gwarancja
 
 Q: Jaki jest okres gwarancji?
-A: Blum udziela dożywotniej gwarancji na mechanikę swoich produktów. Pozostałe produkty mają gwarancję producenta, zazwyczaj 2 lata.
+A: Blum udziela dożywotniej gwarancji na mechanikę swoich produktów (prowadnice, zawiasy, podnośniki) przy prawidłowym użytkowaniu zgodnym z instrukcją. Produkty pozostałych marek w ofercie PHU GRAL objęte są gwarancją producenta, standardowo 2 lata. Gwarancja nie ogranicza ustawowych praw konsumenta.
 
 Q: Co obejmuje gwarancja?
-A: Gwarancja obejmuje wady materiałowe i produkcyjne. Nie obejmuje uszkodzeń mechanicznych, zużycia eksploatacyjnego ani montażu niezgodnego z instrukcją.
+A: Gwarancja obejmuje wady materiałowe i produkcyjne stwierdzone przy normalnym użytkowaniu. Nie obejmuje uszkodzeń mechanicznych, korozji wynikającej z niewłaściwego użytkowania (np. kontakt z wodą bez zabezpieczenia), zużycia eksploatacyjnego ani uszkodzeń powstałych przy montażu niezgodnym z instrukcją.
 
 Q: Jak zgłosić wadę gwarancyjną?
-A: Wyślij e-mail na sklep@phu-gral.pl z numerem zamówienia, opisem wady i zdjęciami. Odpowiemy w ciągu 2 dni roboczych.
+A: Wyślij e-mail na sklep@phu-gral.pl z numerem zamówienia, opisem wady i zdjęciami lub krótkim filmem dokumentującym usterkę. Odpowiadamy w ciągu 2 dni roboczych z informacją o dalszym postępowaniu (wymiana, naprawa lub zwrot środków).
 
 ## FAQ — Konto i rejestracja
 
 Q: Czy muszę się zarejestrować, żeby kupować?
-A: Nie — możesz kupować jako gość. Konto umożliwia śledzenie zamówień i szybsze zakupy przy kolejnych zamówieniach.
+A: Nie — możesz kupować jako gość bez zakładania konta. Konto umożliwia śledzenie statusu zamówień, dostęp do historii zakupów i szybsze składanie kolejnych zamówień dzięki zapisanym danym adresowym.
