@@ -11,7 +11,7 @@
 - [O nas](https://phu-gral.eu/pl/i/Informacje-o-firmie/16): Historia firmy, dane rejestrowe, kontakt
 - [FAQ](https://phu-gral.eu/pl/i/Najczesciej-zadawane-pytania/5): Często zadawane pytania — dostawa, płatność, zwroty, montaż
 - [Kontakt](https://phu-gral.eu/pl/i/Kontakt/15): Adres, godziny otwarcia, telefon, e-mail
-- [Dostawa i płatność](/pl/i/Koszty-dostawy/8): Warunki wysyłki i formy płatności — standardowa 14 zł, bezpłatna od 500 zł
+- [Dostawa i płatność](https://phu-gral.eu/pl/i/Koszty-dostawy/8): Warunki wysyłki i formy płatności — standardowa 14 zł, bezpłatna od 500 zł
 - [Porównanie szuflad Blum: Tandembox vs Legrabox vs Merivobox](https://phu-gral.eu/pl/i/Szuflady-Blum-Tandembox-Antaro-vs-Legrabox-vs-Merivobox-%E2%80%94-porownanie-systemow/29): Szczegółowe porównanie trzech systemów szuflad Blum z tabelą i rekomendacjami
 
 ## Marki
@@ -23,12 +23,12 @@
 
 ## Kategorie produktów
 
-- [Szuflady i systemy szuflad](/pl/c/Szuflady-systemy-szuflad/610)
-- [Zawiasy](/pl/c/Zawiasy/954)
-- [Uchwyty i gałki](/pl/c/Uchwyty-i-galki-meblowe/801)
-- [Systemy drzwi przesuwnych](/pl/c/Systemy-drzwi-przejsciowych-i-przesuwnych/809)
+- [Szuflady i systemy szuflad](https://phu-gral.eu/pl/c/Szuflady-systemy-szuflad/610)
+- [Zawiasy](https://phu-gral.eu/pl/c/Zawiasy/954)
+- [Uchwyty i gałki](https://phu-gral.eu/pl/c/Uchwyty-i-galki-meblowe/801)
+- [Systemy drzwi przesuwnych](https://phu-gral.eu/pl/c/Systemy-drzwi-przejsciowych-i-przesuwnych/809)
 - [Windy górne do drzwiczek](https://phu-gral.eu/pl/c/Windy-gorne/866)
-- [Nogi meblowe](/pl/c/Nogi-i-nozki/212)
+- [Nogi meblowe](https://phu-gral.eu/pl/c/Nogi-i-nozki/212)
 
 ## Dane firmy
 
