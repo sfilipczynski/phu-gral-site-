@@ -14,6 +14,21 @@
 - [Dostawa i płatność](https://phu-gral.eu/pl/i/Koszty-dostawy/8): Warunki wysyłki i formy płatności — standardowa 14 zł, bezpłatna od 500 zł
 - [Porównanie szuflad Blum: Tandembox vs Legrabox vs Merivobox](https://phu-gral.eu/pl/i/Szuflady-Blum-Tandembox-Antaro-vs-Legrabox-vs-Merivobox-%E2%80%94-porownanie-systemow/29): Szczegółowe porównanie trzech systemów szuflad Blum z tabelą i rekomendacjami
 
+  ## Poradniki montażu (instrukcje krok po kroku)
+
+  - [Montaż prowadnic Blum MOVENTO 760H/766H](https://phu-gral.eu/montaz-prowadnic-blum-movento): Pełny wysuw z Blumotion — wymiary SKW/NL, pozycja wkrętów,
+  osadzenie i regulacja frontu
+  - [Montaż szuflady Blum TANDEMBOX Antaro](https://phu-gral.eu/montaz-szuflady-blum-tandembox-antaro): Wymiary zabudowy KB/LW/NL, nawierty frontu, ścianka
+  tylna, regulacja
+  - [Montaż podnośnika Blum AVENTOS HK-S](https://phu-gral.eu/montaz-podnosnika-blum-aventos-hk-s): Małe fronty uchylne — minimalne wymiary, dobór kąta,
+  mocowanie korpusu i zaczepu
+  - [Montaż podnośnika Blum AVENTOS HL top](https://phu-gral.eu/montaz-podnosnika-blum-aventos-hl-top): Równoległe unoszenie frontu — dobór siłowników,
+  wymiary frontu, stabilizacja, SERVO-DRIVE
+  - [Montaż zawiasów Blum CLIP top](https://phu-gral.eu/montaz-zawiasow-blum-clip-top): Dobór nakładki, puszka Ø35 mm, mocowanie prowadnika, zatrzask CLIP,
+  regulacja 3D
+  - [Montaż prowadnic Blum TANDEM 19 mm z TIP-ON](https://phu-gral.eu/montaz-prowadnic-blum-tandem-tip-on): Warianty 560F/561F, dobór długości, wymiary
+  SKW/SKL, reling synchronizacji
+
 ## Marki
 
 - [Blum](https://phu-gral.eu/pl/c/Blum/): Szuflady Legrabox, Merivobox, Tandembox Antaro; zawiasy Clip top Blumotion; podnośniki Aventos HF/HK/HL/HS
