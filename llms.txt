@@ -13,6 +13,8 @@
 - [Kontakt](https://phu-gral.eu/pl/i/Kontakt/15): Adres, godziny otwarcia, telefon, e-mail
 - [Dostawa i płatność](https://phu-gral.eu/pl/i/Koszty-dostawy/8): Warunki wysyłki i formy płatności — standardowa 14 zł, bezpłatna od 500 zł
 - [Porównanie szuflad Blum: Tandembox vs Legrabox vs Merivobox](https://phu-gral.eu/pl/i/Szuflady-Blum-Tandembox-Antaro-vs-Legrabox-vs-Merivobox-%E2%80%94-porownanie-systemow/29): Szczegółowe porównanie trzech systemów szuflad Blum z tabelą i rekomendacjami
+ - [Zawieszki do szafek Camar 801, 806 i 807: którą wybrać](https://phu-gral.eu/pl/i/Zawieszki-do-szafek-Camar-801%2C-806-i-807-ktora-wybrac/42): Poradnik
+  wyboru zawieszki Camar do szafek górnych i dolnych — udźwig, montaż, regulacja
 
   ## Poradniki montażu (instrukcje krok po kroku)
 
