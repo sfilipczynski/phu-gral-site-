@@ -15,6 +15,7 @@
 - [Porównanie szuflad Blum: Tandembox vs Legrabox vs Merivobox](https://phu-gral.eu/pl/i/Szuflady-Blum-Tandembox-Antaro-vs-Legrabox-vs-Merivobox-%E2%80%94-porownanie-systemow/29): Szczegółowe porównanie trzech systemów szuflad Blum z tabelą i rekomendacjami
  - [Zawieszki do szafek Camar 801, 806 i 807: którą wybrać](https://phu-gral.eu/pl/i/Zawieszki-do-szafek-Camar-801%2C-806-i-807-ktora-wybrac/42): Poradnik
   wyboru zawieszki Camar do szafek górnych i dolnych — udźwig, montaż, regulacja
+- [Konfirmaty: jak dobrać wymiar, wywiercić otwór i zamontować](https://phu-gral.eu/pl/i/Konfirmaty-jak-dobrac-wymiar%2C-wywiercic-otwor-i-zamontowac/43): Poradnik doboru konfirmatów — wymiary 6,4×50 i 7×50, wiercenie wiertłem stopniowym, montaż i maskowanie łba
 
   ## Poradniki montażu (instrukcje krok po kroku)
 
