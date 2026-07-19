@@ -31,6 +31,8 @@
   regulacja 3D
   - [Montaż prowadnic Blum TANDEM 19 mm z TIP-ON](https://phu-gral.eu/montaz-prowadnic-blum-tandem-tip-on): Warianty 560F/561F, dobór długości, wymiary
   SKW/SKL, reling synchronizacji
+  - [Montaż szuflady Häfele Matrix S Slim](https://phu-gral.eu/montaz-szuflady-hafele-matrix-s-slim): Boki 13 mm H84/H135/H199, wymiary dna i ścianki
+  tylnej od LW, schemat wierceń, regulacja
 
 ## Marki
 
