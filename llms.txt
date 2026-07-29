@@ -13,6 +13,7 @@
 - [Kontakt](https://phu-gral.eu/pl/i/Kontakt/15): Adres, godziny otwarcia, telefon, e-mail
 - [Dostawa i płatność](https://phu-gral.eu/pl/i/Koszty-dostawy/8): Warunki wysyłki i formy płatności — standardowa 14 zł, bezpłatna od 500 zł
 - [Porównanie szuflad Blum: Tandembox vs Legrabox vs Merivobox](https://phu-gral.eu/pl/i/Szuflady-Blum-Tandembox-Antaro-vs-Legrabox-vs-Merivobox-%E2%80%94-porownanie-systemow/29): Szczegółowe porównanie trzech systemów szuflad Blum z tabelą i rekomendacjami
+- [Tandembox vs Legrabox: który system szuflad do kuchni](https://phu-gral.eu/Tandembox-vs-Legrabox-ktory-system-szuflad-do-kuchni): Porównanie dwóch systemów Blum — bok 16 mm vs 12,8 mm, prowadnica TANDEM vs MOVENTO, udźwig 30/65 kg vs 40/70 kg, rekomendacja zakupowa
  - [Zawieszki do szafek Camar 801, 806 i 807: którą wybrać](https://phu-gral.eu/pl/i/Zawieszki-do-szafek-Camar-801%2C-806-i-807-ktora-wybrac/42): Poradnik
   wyboru zawieszki Camar do szafek górnych i dolnych — udźwig, montaż, regulacja
 - [Konfirmaty: jak dobrać wymiar, wywiercić otwór i zamontować](https://phu-gral.eu/pl/i/Konfirmaty-jak-dobrac-wymiar%2C-wywiercic-otwor-i-zamontowac/43): Poradnik doboru konfirmatów — wymiary 6,4×50 i 7×50, wiercenie wiertłem stopniowym, montaż i maskowanie łba
@@ -33,6 +34,14 @@
   SKW/SKL, reling synchronizacji
   - [Montaż szuflady Häfele Matrix S Slim](https://phu-gral.eu/montaz-szuflady-hafele-matrix-s-slim): Boki 13 mm H84/H135/H199, wymiary dna i ścianki
   tylnej od LW, schemat wierceń, regulacja
+  - [Montaż szuflady Blum LEGRABOX](https://phu-gral.eu/montaz-szuflady-blum-legrabox): Dobór prowadnic 750 (40 kg, NL 270-600 mm) i 753 (70 kg, NL 450-650 mm),
+  głębokość korpusu = NL + 3 mm, mocowanie frontu na wkręty lub EXPANDO
+  - [Montaż podnośnika Blum AVENTOS HF](https://phu-gral.eu/montaz-podnosnika-blum-aventos-hf): Fronty uchylno-składane, korpus 480-1040 mm wys. i do 1800 mm szer.;
+  wyliczenie współczynnika LF i dobór zestawu siłowników 20F2200/20F2500/20F2800
+  - [Montaż drzwi przesuwnych SEVROLL Fox (Gemini 10)](https://phu-gral.eu/montaz-drzwi-przesuwnych-sevroll-fox): Skrzydło do 50 kg, wypełnienie płyta 10 mm,
+  lustro 4 mm lub szyba 4,5 mm; tor górny 76 mm i dolny 53 mm, wózki WP 10 DUO i WD 10 C HI-TEC
+  - [Montaż HAWA Concepta 25/30](https://phu-gral.eu/montaz-hawa-concepta-25-30): Drzwi obrotowo-wsuwane chowane w bok korpusu, udźwig 25 lub 30 kg na skrzydło;
+  warianty inlaying, Connector 55/110 oraz montaż we wnęce ściennej
 
 ## Marki
 
