@@ -12,11 +12,11 @@
 - [FAQ](https://phu-gral.eu/pl/i/Najczesciej-zadawane-pytania/5): Często zadawane pytania — dostawa, płatność, zwroty, montaż
 - [Kontakt](https://phu-gral.eu/pl/i/Kontakt/15): Adres, godziny otwarcia, telefon, e-mail
 - [Dostawa i płatność](https://phu-gral.eu/pl/i/Koszty-dostawy/8): Warunki wysyłki i formy płatności — standardowa 14 zł, bezpłatna od 500 zł
-- [Porównanie szuflad Blum: Tandembox vs Legrabox vs Merivobox](https://phu-gral.eu/pl/i/Szuflady-Blum-Tandembox-Antaro-vs-Legrabox-vs-Merivobox-%E2%80%94-porownanie-systemow/29): Szczegółowe porównanie trzech systemów szuflad Blum z tabelą i rekomendacjami
+- [Porównanie szuflad Blum: Tandembox vs Legrabox vs Merivobox](https://phu-gral.eu/tandembox-antaro-vs-legrabox-vs-merivobox): Szczegółowe porównanie trzech systemów szuflad Blum z tabelą i rekomendacjami
 - [Tandembox vs Legrabox: który system szuflad do kuchni](https://phu-gral.eu/Tandembox-vs-Legrabox-ktory-system-szuflad-do-kuchni): Porównanie dwóch systemów Blum — bok 16 mm vs 12,8 mm, prowadnica TANDEM vs MOVENTO, udźwig 30/65 kg vs 40/70 kg, rekomendacja zakupowa
- - [Zawieszki do szafek Camar 801, 806 i 807: którą wybrać](https://phu-gral.eu/pl/i/Zawieszki-do-szafek-Camar-801%2C-806-i-807-ktora-wybrac/42): Poradnik
+ - [Zawieszki do szafek Camar 801, 806 i 807: którą wybrać](https://phu-gral.eu/zawieszki-do-szafek-camar-801-806-807): Poradnik
   wyboru zawieszki Camar do szafek górnych i dolnych — udźwig, montaż, regulacja
-- [Konfirmaty: jak dobrać wymiar, wywiercić otwór i zamontować](https://phu-gral.eu/pl/i/Konfirmaty-jak-dobrac-wymiar%2C-wywiercic-otwor-i-zamontowac/43): Poradnik doboru konfirmatów — wymiary 6,4×50 i 7×50, wiercenie wiertłem stopniowym, montaż i maskowanie łba
+- [Konfirmaty: jak dobrać wymiar, wywiercić otwór i zamontować](https://phu-gral.eu/konfirmaty-jak-dobrac-i-zamontowac): Poradnik doboru konfirmatów — wymiary 6,4×50 i 7×50, wiercenie wiertłem stopniowym, montaż i maskowanie łba
 
   ## Poradniki montażu (instrukcje krok po kroku)
 
