@@ -97,13 +97,20 @@ Pozostałe marki w ofercie:
 
 - Pełna nazwa: Przedsiębiorstwo Handlowo-Usługowe GRAL
 - Adres: ul. Stanisława Mikołajczyka 32, 15-772 Białystok, Polska
-- Telefon: +48 663 783 083
+- Telefon komórkowy: +48 663 783 083
+- Telefon stacjonarny: +48 85 653 00 63
 - E-mail: sklep@phu-gral.pl
 - Godziny otwarcia sklepu: pon.–pt. 8:00–16:00
 - Godziny obsługi telefonicznej: pon.–pt. 8:00–16:30
 - NIP: 5431315780
 - YouTube: https://www.youtube.com/channel/UCx0R1k8K4ND2Lfe-ZAiXQVA
 - Wikidata: https://www.wikidata.org/wiki/Q139551790
+
+## Zakupy i obsługa
+
+- [Czas realizacji zamówień](https://phu-gral.eu/pl/i/Czas-realizacji-zamowien/6): czas dostawy liczony od nadania do odbioru, wyraźnie odróżniony od czasu kompletowania zamówienia.
+- [Zwroty i reklamacje](https://phu-gral.eu/pl/i/Zwroty-i-reklamacje/24): prawo konsumenta do odstąpienia od umowy w terminie 14 dni, wraz z formularzem odstąpienia.
+- [Reklamacja i rękojmia](https://phu-gral.eu/pl/i/Gwarancja/12): podstawa i zakres odpowiedzialności sprzedawcy z tytułu rękojmi; strona dotyczy rękojmi, nie gwarancji producenta.
 
 ## FAQ — Zamówienia i płatności
 
