@@ -114,6 +114,7 @@ Pozostałe marki w ofercie:
 
 ## Zakupy i obsługa
 
+- [Dostępność produktów](https://phu-gral.eu/pl/i/Dostepnosc-produktow/7): co oznacza status „Dostępność: dostępne", czasy wysyłki 48 godzin oraz 4-8 dni, i dlaczego stan magazynowy rekordu bazowego nie opisuje dostępności wariantów.
 - [Czas realizacji zamówień](https://phu-gral.eu/pl/i/Czas-realizacji-zamowien/6): czas dostawy liczony od nadania do odbioru, wyraźnie odróżniony od czasu kompletowania zamówienia.
 - [Zwroty i reklamacje](https://phu-gral.eu/pl/i/Zwroty-i-reklamacje/24): prawo konsumenta do odstąpienia od umowy w terminie 14 dni, wraz z formularzem odstąpienia.
 - [Reklamacja i rękojmia](https://phu-gral.eu/pl/i/Gwarancja/12): podstawa i zakres odpowiedzialności sprzedawcy z tytułu rękojmi; strona dotyczy rękojmi, nie gwarancji producenta.
