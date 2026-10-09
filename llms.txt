@@ -15,34 +15,22 @@
 - [Dostawa i płatność](https://phu-gral.eu/pl/i/Koszty-dostawy/8): Warunki wysyłki i formy płatności — standardowa 14 zł, bezpłatna od 500 zł
 - [Porównanie szuflad Blum: Tandembox vs Legrabox vs Merivobox](https://phu-gral.eu/tandembox-antaro-vs-legrabox-vs-merivobox): Szczegółowe porównanie trzech systemów szuflad Blum z tabelą i rekomendacjami
 - [Tandembox vs Legrabox: który system szuflad do kuchni](https://phu-gral.eu/Tandembox-vs-Legrabox-ktory-system-szuflad-do-kuchni): Porównanie dwóch systemów Blum — bok 16 mm vs 12,8 mm, prowadnica TANDEM vs MOVENTO, udźwig 30/65 kg vs 40/70 kg, rekomendacja zakupowa
- - [Zawieszki do szafek Camar 801, 806 i 807: którą wybrać](https://phu-gral.eu/zawieszki-do-szafek-camar-801-806-807): Poradnik
-  wyboru zawieszki Camar do szafek górnych i dolnych — udźwig, montaż, regulacja
+- [Zawieszki do szafek Camar 801, 806 i 807: którą wybrać](https://phu-gral.eu/zawieszki-do-szafek-camar-801-806-807): Poradnik wyboru zawieszki Camar do szafek górnych i dolnych — udźwig, montaż, regulacja
 - [Konfirmaty: jak dobrać wymiar, wywiercić otwór i zamontować](https://phu-gral.eu/konfirmaty-jak-dobrac-i-zamontowac): Poradnik doboru konfirmatów — wymiary 6,4×50 i 7×50, wiercenie wiertłem stopniowym, montaż i maskowanie łba
 
-  ## Poradniki montażu (instrukcje krok po kroku)
+## Poradniki montażu (instrukcje krok po kroku)
 
-  - [Montaż prowadnic Blum MOVENTO 760H/766H](https://phu-gral.eu/montaz-prowadnic-blum-movento): Pełny wysuw z Blumotion — wymiary SKW/NL, pozycja wkrętów,
-  osadzenie i regulacja frontu
-  - [Montaż szuflady Blum TANDEMBOX Antaro](https://phu-gral.eu/montaz-szuflady-blum-tandembox-antaro): Wymiary zabudowy KB/LW/NL, nawierty frontu, ścianka
-  tylna, regulacja
-  - [Montaż podnośnika Blum AVENTOS HK-S](https://phu-gral.eu/montaz-podnosnika-blum-aventos-hk-s): Małe fronty uchylne — minimalne wymiary, dobór kąta,
-  mocowanie korpusu i zaczepu
-  - [Montaż podnośnika Blum AVENTOS HL top](https://phu-gral.eu/montaz-podnosnika-blum-aventos-hl-top): Równoległe unoszenie frontu — dobór siłowników,
-  wymiary frontu, stabilizacja, SERVO-DRIVE
-  - [Montaż zawiasów Blum CLIP top](https://phu-gral.eu/montaz-zawiasow-blum-clip-top): Dobór nakładki, puszka Ø35 mm, mocowanie prowadnika, zatrzask CLIP,
-  regulacja 3D
-  - [Montaż prowadnic Blum TANDEM 19 mm z TIP-ON](https://phu-gral.eu/montaz-prowadnic-blum-tandem-tip-on): Warianty 560F/561F, dobór długości, wymiary
-  SKW/SKL, reling synchronizacji
-  - [Montaż szuflady Häfele Matrix S Slim](https://phu-gral.eu/montaz-szuflady-hafele-matrix-s-slim): Boki 13 mm H84/H135/H199, wymiary dna i ścianki
-  tylnej od LW, schemat wierceń, regulacja
-  - [Montaż szuflady Blum LEGRABOX](https://phu-gral.eu/montaz-szuflady-blum-legrabox): Dobór prowadnic 750 (40 kg, NL 270-600 mm) i 753 (70 kg, NL 450-650 mm),
-  głębokość korpusu = NL + 3 mm, mocowanie frontu na wkręty lub EXPANDO
-  - [Montaż podnośnika Blum AVENTOS HF](https://phu-gral.eu/montaz-podnosnika-blum-aventos-hf): Fronty uchylno-składane, korpus 480-1040 mm wys. i do 1800 mm szer.;
-  wyliczenie współczynnika LF i dobór zestawu siłowników 20F2200/20F2500/20F2800
-  - [Montaż drzwi przesuwnych SEVROLL Fox (Gemini 10)](https://phu-gral.eu/montaz-drzwi-przesuwnych-sevroll-fox): Skrzydło do 50 kg, wypełnienie płyta 10 mm,
-  lustro 4 mm lub szyba 4,5 mm; tor górny 76 mm i dolny 53 mm, wózki WP 10 DUO i WD 10 C HI-TEC
-  - [Montaż HAWA Concepta 25/30](https://phu-gral.eu/montaz-hawa-concepta-25-30): Drzwi obrotowo-wsuwane chowane w bok korpusu, udźwig 25 lub 30 kg na skrzydło;
-  warianty inlaying, Connector 55/110 oraz montaż we wnęce ściennej
+- [Montaż prowadnic Blum MOVENTO 760H/766H](https://phu-gral.eu/montaz-prowadnic-blum-movento): Pełny wysuw z Blumotion — wymiary SKW/NL, pozycja wkrętów, osadzenie i regulacja frontu
+- [Montaż szuflady Blum TANDEMBOX Antaro](https://phu-gral.eu/montaz-szuflady-blum-tandembox-antaro): Wymiary zabudowy KB/LW/NL, nawierty frontu, ścianka tylna, regulacja
+- [Montaż podnośnika Blum AVENTOS HK-S](https://phu-gral.eu/montaz-podnosnika-blum-aventos-hk-s): Małe fronty uchylne — minimalne wymiary, dobór kąta, mocowanie korpusu i zaczepu
+- [Montaż podnośnika Blum AVENTOS HL top](https://phu-gral.eu/montaz-podnosnika-blum-aventos-hl-top): Równoległe unoszenie frontu — dobór siłowników, wymiary frontu, stabilizacja, SERVO-DRIVE
+- [Montaż zawiasów Blum CLIP top](https://phu-gral.eu/montaz-zawiasow-blum-clip-top): Dobór nakładki, puszka Ø35 mm, mocowanie prowadnika, zatrzask CLIP, regulacja 3D
+- [Montaż prowadnic Blum TANDEM 19 mm z TIP-ON](https://phu-gral.eu/montaz-prowadnic-blum-tandem-tip-on): Warianty 560F/561F, dobór długości, wymiary SKW/SKL, reling synchronizacji
+- [Montaż szuflady Häfele Matrix S Slim](https://phu-gral.eu/montaz-szuflady-hafele-matrix-s-slim): Boki 13 mm H84/H135/H199, wymiary dna i ścianki tylnej od LW, schemat wierceń, regulacja
+- [Montaż szuflady Blum LEGRABOX](https://phu-gral.eu/montaz-szuflady-blum-legrabox): Dobór prowadnic 750 (40 kg, NL 270-600 mm) i 753 (70 kg, NL 450-650 mm), głębokość korpusu = NL + 3 mm, mocowanie frontu na wkręty lub EXPANDO
+- [Montaż podnośnika Blum AVENTOS HF](https://phu-gral.eu/montaz-podnosnika-blum-aventos-hf): Fronty uchylno-składane, korpus 480-1040 mm wys. i do 1800 mm szer.; wyliczenie współczynnika LF i dobór zestawu siłowników 20F2200/20F2500/20F2800
+- [Montaż drzwi przesuwnych SEVROLL Fox (Gemini 10)](https://phu-gral.eu/montaz-drzwi-przesuwnych-sevroll-fox): Skrzydło do 50 kg, wypełnienie płyta 10 mm, lustro 4 mm lub szyba 4,5 mm; tor górny 76 mm i dolny 53 mm, wózki WP 10 DUO i WD 10 C HI-TEC
+- [Montaż HAWA Concepta 25/30](https://phu-gral.eu/montaz-hawa-concepta-25-30): Drzwi obrotowo-wsuwane chowane w bok korpusu, udźwig 25 lub 30 kg na skrzydło; warianty inlaying, Connector 55/110 oraz montaż we wnęce ściennej
 
 ## Marki
 
